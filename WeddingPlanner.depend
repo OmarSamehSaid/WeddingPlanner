@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615165515 source:d:\kolya\level 2\ab7as\algo\code\weddingplanner\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<iomanip>
+	<vector>
+
